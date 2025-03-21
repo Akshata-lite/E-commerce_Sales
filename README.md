@@ -11,11 +11,8 @@ This project analyzes e-commerce sales data to uncover trends in customer behavi
 
 ## 📂 Dataset
 The dataset includes:
-- **sales_data.csv**: Contains details on transactions, including order dates, product categories, and sales revenue.
-- **customer_data.csv**: Includes customer demographics, purchase history, and segmentation data.
-- **product_data.csv**: Features product categories, pricing, and stock availability.
-
-**Dataset Source**: E-commerce Sales Dataset
+- **Ecommerce Customers.csv**: This dataset contains customer purchase details, including demographics, spending patterns, and transaction history. It helps analyze customer behavior and optimize e-commerce sales strategies.
+**Dataset Source**:Superstore USA Dataset
 
 ## 🔍 Insights
 - 📈 **Sales trends**: Revenue follows a seasonal pattern, peaking during holiday sales.
