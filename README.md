@@ -1,6 +1,9 @@
 # E-commerce_Sales
 This project analyzes e-commerce sales data to identify trends, customer behavior, and revenue patterns. It includes data preprocessing, visualization, and predictive analysis for business insights.
 
+<img src="E-sales_image" alt="Description of Image" width="1080" height="580">
+
+
 # 📊 E-commerce Sales Analysis
 
 ## 📌 Overview
