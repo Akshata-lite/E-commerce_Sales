@@ -11,7 +11,7 @@ This project analyzes e-commerce sales data to uncover trends in customer behavi
 
 ## 📂 Dataset
 The dataset includes:
-- **Dataset Source**:Superstore USA Dataset : This dataset contains customer purchase details, including demographics, spending patterns, and transaction history. It helps analyze customer behavior and optimize e-commerce sales strategies.
+- **Dataset Source** Superstore USA Dataset : This dataset contains customer purchase details, including demographics, spending patterns, and transaction history. It helps analyze customer behavior and optimize e-commerce sales strategies.
 
 
 ## 🔍 Insights
